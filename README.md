@@ -1,4 +1,13 @@
-### Hi there 👋
+Hello, 👋
+
+My name is Manoj Md  and i'm a front end developer. i'm from shivamogga,karnataka , currently living in bangalore
+
+<b>Technologies & Tools</b>
+HTML|CSS|Javascript|jquery|Bootstrap
+  
+
+
+
 
 <!--
 **manumd20/manumd20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
