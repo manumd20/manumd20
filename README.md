@@ -3,7 +3,7 @@ Hello, 👋
 My name is Manoj Md  and i'm a front end developer. i'm from shivamogga,karnataka , currently living in bangalore
 
 <b>Technologies & Tools</b>
-HTML|CSS|Javascript|jquery|Bootstrap
+HTML|CSS|Javascript|jquery|Bootstrap|Mysql|python|django
   
 
 
